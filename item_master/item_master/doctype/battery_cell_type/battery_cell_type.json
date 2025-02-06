@@ -14,8 +14,7 @@
    "fieldname": "battery_cell_type",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Battery Cell Type",
-   "reqd": 1
+   "label": "Battery Cell Type"
   },
   {
    "fieldname": "description",
@@ -25,7 +24,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:28:30.919679",
+ "modified": "2025-02-05 17:47:47.254827",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Battery Cell Type",

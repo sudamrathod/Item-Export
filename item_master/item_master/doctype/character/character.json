@@ -14,8 +14,7 @@
    "fieldname": "character",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Character",
-   "reqd": 1
+   "label": "Character"
   },
   {
    "fieldname": "description",
@@ -25,7 +24,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:27:00.600609",
+ "modified": "2025-02-05 17:49:31.548239",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Character",

@@ -14,8 +14,7 @@
    "fieldname": "product_subcategory",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Product Subcategory",
-   "reqd": 1
+   "label": "Product Subcategory"
   },
   {
    "fieldname": "description",
@@ -25,7 +24,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:25:04.775734",
+ "modified": "2025-02-05 17:50:36.593785",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Product Subcategory",

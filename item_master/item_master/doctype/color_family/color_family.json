@@ -14,8 +14,7 @@
    "fieldname": "color_family",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Color Family",
-   "reqd": 1
+   "label": "Color Family"
   },
   {
    "fieldname": "description",
@@ -25,7 +24,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:27:46.749260",
+ "modified": "2025-02-05 17:49:20.155629",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Color Family",

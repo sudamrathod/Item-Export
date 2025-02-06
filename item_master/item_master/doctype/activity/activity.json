@@ -14,8 +14,7 @@
    "fieldname": "activity",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Activity",
-   "reqd": 1
+   "label": "Activity"
   },
   {
    "fieldname": "description",
@@ -25,7 +24,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:24:50.038923",
+ "modified": "2025-02-05 17:50:46.643918",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Activity",

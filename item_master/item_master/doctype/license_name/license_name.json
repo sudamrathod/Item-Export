@@ -14,8 +14,7 @@
    "fieldname": "license_name",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "License Name",
-   "reqd": 1
+   "label": "License Name"
   },
   {
    "fieldname": "description",
@@ -25,7 +24,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:28:48.175334",
+ "modified": "2025-02-05 17:51:11.839324",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "License Name",

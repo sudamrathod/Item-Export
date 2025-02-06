@@ -14,8 +14,7 @@
    "fieldname": "color_name",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Color Name",
-   "reqd": 1
+   "label": "Color Name"
   },
   {
    "fieldname": "description",
@@ -25,7 +24,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:26:44.723709",
+ "modified": "2025-02-05 17:49:40.986104",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Color Name",

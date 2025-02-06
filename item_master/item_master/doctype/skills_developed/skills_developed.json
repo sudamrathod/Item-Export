@@ -14,8 +14,7 @@
    "fieldname": "skills_developed",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Skills Developed",
-   "reqd": 1
+   "label": "Skills Developed"
   },
   {
    "fieldname": "description",
@@ -25,7 +24,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:28:16.829506",
+ "modified": "2025-02-05 17:48:44.504602",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Skills Developed",
